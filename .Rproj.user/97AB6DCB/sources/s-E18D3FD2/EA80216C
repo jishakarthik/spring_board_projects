@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1516488937459.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "EA80216C",
+    "lastKnownWriteTime" : 1517164207,
+    "last_content_update" : 1517164207908,
+    "path" : "C:/springboard_capstone_project/rprojects/data_wrangling_exc_1.R",
+    "project_path" : "data_wrangling_exc_1.R",
+    "properties" : {
+        "cursorPosition" : "60,0",
+        "scrollLine" : "40"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
